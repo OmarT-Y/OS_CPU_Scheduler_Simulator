@@ -1,0 +1,508 @@
+﻿  FCFS.cpp
+  Global_Queues.cpp
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2059: syntax error: '<'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2059: syntax error: '<'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2059: syntax error: '<'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2059: syntax error: '<'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2059: syntax error: '<'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,12): error C3646: 'name': unknown override specifier
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,25): error C2143: syntax error: missing ',' before '&'
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,16): error C2065: 'name': undeclared identifier
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,11): error C2614: 'Process': illegal member initialization: 'name' is not a base or member
+  (compiling source file 'Global_Queues.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(4,8): error C2143: syntax error: missing ';' before '*'
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(4,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(4,10): error C2086: 'int *Running_task': redefinition
+  D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,17):
+  see declaration of 'Running_task'
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,1): error C2872: 'vector': ambiguous symbol
+  D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,8):
+  could be 'int vector'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(436,1):
+  or       'std::vector'
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,7): error C2143: syntax error: missing ';' before '<'
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,7): error C2059: syntax error: '<'
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(6,1): error C2872: 'vector': ambiguous symbol
+  D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,1):
+  could be 'int vector'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(436,1):
+  or       'std::vector'
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(6,7): error C2143: syntax error: missing ';' before '<'
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(6,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(6,1): error C2086: 'int vector': redefinition
+  D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,1):
+  see declaration of 'vector'
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(6,7): error C2059: syntax error: '<'
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(7,1): error C2872: 'vector': ambiguous symbol
+  D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,1):
+  could be 'int vector'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(436,1):
+  or       'std::vector'
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(7,7): error C2143: syntax error: missing ';' before '<'
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(7,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(7,1): error C2086: 'int vector': redefinition
+  D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,1):
+  see declaration of 'vector'
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(7,7): error C2059: syntax error: '<'
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(8,1): error C2872: 'vector': ambiguous symbol
+  D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,1):
+  could be 'int vector'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(436,1):
+  or       'std::vector'
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(8,7): error C2143: syntax error: missing ';' before '<'
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(8,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(8,1): error C2086: 'int vector': redefinition
+  D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,1):
+  see declaration of 'vector'
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(8,7): error C2059: syntax error: '<'
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(9,1): error C2872: 'vector': ambiguous symbol
+  D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,1):
+  could be 'int vector'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(436,1):
+  or       'std::vector'
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(9,7): error C2143: syntax error: missing ';' before '<'
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(9,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(9,1): error C2086: 'int vector': redefinition
+  D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(5,1):
+  see declaration of 'vector'
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Global_Queues.cpp(9,7): error C2059: syntax error: '<'
+  Priority_Non_Preemptive.cpp
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2059: syntax error: '<'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2059: syntax error: '<'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2059: syntax error: '<'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2059: syntax error: '<'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2059: syntax error: '<'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,12): error C3646: 'name': unknown override specifier
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,25): error C2143: syntax error: missing ',' before '&'
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,16): error C2065: 'name': undeclared identifier
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,11): error C2614: 'Process': illegal member initialization: 'name' is not a base or member
+  (compiling source file 'Priority_Non_Preemptive.cpp')
+  
+  Priority_Preemptive.cpp
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2059: syntax error: '<'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2059: syntax error: '<'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2059: syntax error: '<'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2059: syntax error: '<'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2059: syntax error: '<'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,12): error C3646: 'name': unknown override specifier
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,25): error C2143: syntax error: missing ',' before '&'
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,16): error C2065: 'name': undeclared identifier
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,11): error C2614: 'Process': illegal member initialization: 'name' is not a base or member
+  (compiling source file 'Priority_Preemptive.cpp')
+  
+  RR.cpp
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2059: syntax error: '<'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2059: syntax error: '<'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2059: syntax error: '<'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2059: syntax error: '<'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2059: syntax error: '<'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,12): error C3646: 'name': unknown override specifier
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,25): error C2143: syntax error: missing ',' before '&'
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,16): error C2065: 'name': undeclared identifier
+  (compiling source file 'RR.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,11): error C2614: 'Process': illegal member initialization: 'name' is not a base or member
+  (compiling source file 'RR.cpp')
+  
+  SJF_Preemptive.cpp
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2059: syntax error: '<'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2059: syntax error: '<'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2059: syntax error: '<'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2059: syntax error: '<'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2059: syntax error: '<'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,12): error C3646: 'name': unknown override specifier
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+  SJF_Non_Preemptive.cpp
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,25): error C2143: syntax error: missing ',' before '&'
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,16): error C2065: 'name': undeclared identifier
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,11): error C2614: 'Process': illegal member initialization: 'name' is not a base or member
+  (compiling source file 'SJF_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(4,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(5,14): error C2059: syntax error: '<'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(6,14): error C2059: syntax error: '<'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(7,14): error C2059: syntax error: '<'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(8,14): error C2059: syntax error: '<'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(9,14): error C2059: syntax error: '<'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,12): error C3646: 'name': unknown override specifier
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(27,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(36,25): error C2143: syntax error: missing ',' before '&'
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,16): error C2065: 'name': undeclared identifier
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\OS_CPU_Schedulars\Definitions.h(37,11): error C2614: 'Process': illegal member initialization: 'name' is not a base or member
+  (compiling source file 'SJF_Non_Preemptive.cpp')
+  
+  Generating Code...
