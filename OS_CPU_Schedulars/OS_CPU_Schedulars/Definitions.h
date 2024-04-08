@@ -62,12 +62,12 @@ public:
     *   return true if any process was moved from the blocked q to the ready q
     *   called when: at the beggining of the scheduler_run functions
     */
-    int get_turnaround(Process* p);
+    int get_turnaround(Process* p, int System_time);
     /*
     *   calculate the turnaround time for the process and push it into the vector
     *   called when: before a task is terminated at the end of the run scheduler function
     */
-    int get_waiting_time(Process* p);
+    int get_waiting_time(Process* p, int System_time);
     /*
     *   calculate the waiting time for the process and push it into the vector
     *   called when: before a task is terminated at the end of the run scheduler function
