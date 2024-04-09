@@ -1,5 +1,5 @@
 #pragma once
-#include "Definitions.h"
+#include "definitions_sch.h"
 class Priority_NP_Sch : public Scheduler
 {
 public:

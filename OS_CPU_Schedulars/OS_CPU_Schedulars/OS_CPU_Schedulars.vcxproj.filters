@@ -33,7 +33,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Definitions.h">
+    <ClInclude Include="definitions_sch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="FCFS.h">
@@ -76,6 +76,9 @@
     </ClCompile>
     <ClCompile Include="SJF_Non_Preemptive.cpp">
       <Filter>SJF_Non_Preemptive</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
