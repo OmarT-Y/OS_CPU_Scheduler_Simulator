@@ -1,10 +1,5 @@
-﻿  FCFS.cpp
+﻿  abstract_sch.cpp
   Priority_Non_Preemptive.cpp
-  Priority_Preemptive.cpp
-  RR.cpp
-  SJF_Non_Preemptive.cpp
-  SJF_Preemptive.cpp
-  Source.cpp
-  abstract_sch.cpp
   Generating Code...
+  LINK : D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\x64\Debug\OS_CPU_Schedulars.exe not found or not built by the last incremental link; performing full link
   OS_CPU_Schedulars.vcxproj -> D:\ASU\8\OS\Project\OS_CPU_Scheduler_Simulator\OS_CPU_Schedulars\x64\Debug\OS_CPU_Schedulars.exe
