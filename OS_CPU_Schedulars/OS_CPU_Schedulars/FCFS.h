@@ -1,5 +1,5 @@
 #pragma once
-#include "Definitions.h"
+#include "definitions_sch.h"
 class FCFS_Sch : public Scheduler
 {
 public:

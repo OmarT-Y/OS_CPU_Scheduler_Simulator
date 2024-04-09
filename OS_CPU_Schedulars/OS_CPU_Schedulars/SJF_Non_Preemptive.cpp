@@ -5,9 +5,9 @@ int SJF_NP_Sch::run_Schedular(int System_time,int prev_running_time)
 {
 	
 
-	if (Check_new_processes());
+	Check_new_processes(System_time);
 	
-	if (check_blocked(System_time));
+	check_blocked(System_time);
 	
 
 	// Sorting Ready queue based on Burst length
@@ -52,7 +52,7 @@ int SJF_NP_Sch::run_Schedular(int System_time,int prev_running_time)
 	{
 		// Calculating specs of terminated process
 		Running_task->remaining_burst = 0;
-		turnaround.push_back(get_turnaround(Running_task,System_time));
+		turnaround.push_back(Scheduler::get_turnaround(Running_task,System_time));
 		wait_time.push_back(get_waiting_time(Running_task,System_time));
 
 		// Erasing terminated process
@@ -108,8 +108,8 @@ int SJF_NP_Sch::run_Schedular(int System_time,int prev_running_time)
 	// Return burst length of idle task if there is still no process ready
 	if (!Ready_Q.empty())
 	{
-		Running_task = Ready_Q[0];
-		Running_task->start_time = System_time;
+		Scheduler::Running_task = Ready_Q[0];
+		Scheduler::Running_task->start_time = System_time;
 		return Running_task->remaining_burst;
 	}
 	return Blocked_Q[0]->ariv_time;

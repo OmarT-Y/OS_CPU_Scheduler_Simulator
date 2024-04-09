@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Definitions.h" />
+    <ClInclude Include="definitions_sch.h" />
     <ClInclude Include="FCFS.h" />
     <ClInclude Include="Priority_Non_Preemptive.h" />
     <ClInclude Include="Priority_Preemptive.h" />
@@ -35,6 +35,7 @@
     <ClCompile Include="RR.cpp" />
     <ClCompile Include="SJF_Preemptive.cpp" />
     <ClCompile Include="SJF_Non_Preemptive.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
