@@ -47,38 +47,38 @@ public:
     vector<int> wait_time;
     int number_of_current_processes = 0;
     int total_number_of_processes = 0;
-    int excpected_last_return;
-    bool Check_new_processes();
+    int expected_last_return;
     /*
     *   check if the total numbe rof processes is less than the size of the job queue
     *   if so update the ready/blocked queues(3la 7sb arival time)
     *   return true if any processes were added
     *   called when: at the beggining of the scheduler_run functions
     */
-    bool check_blocked(int sys_time);
+    bool Check_new_processes();
     /*
     *   check the system time and the arival times of the process in the blocked queue
     *   if a process should arrive now or aleady arived move to the ready queue
     *   return true if any process was moved from the blocked q to the ready q
     *   called when: at the beggining of the scheduler_run functions
     */
-    int get_turnaround(Process* p);
+    bool check_blocked(int sys_time);
     /*
     *   calculate the turnaround time for the process and push it into the vector
     *   called when: before a task is terminated at the end of the run scheduler function
     */
-    int get_waiting_time(Process* p);
+    int get_turnaround(Process* p);
     /*
     *   calculate the waiting time for the process and push it into the vector
     *   called when: before a task is terminated at the end of the run scheduler function
     */
+    int get_waiting_time(Process* p);
     double get_avg_turnaround();
     double get_avg_waiting_time();
     virtual int run_Schedular(int System_time, int prev_running_time);
     /*
     *   1)check for new processes(call the function)
     *   2)check for blocked updates(call the function)
-    *   3)comapre the prev running time to the excpected_return_time to know if the task 
+    *   3)comapre the prev running time to the expected_return_time to know if the task 
                                                                            was interrupted
     *       3.1)update the remaining burst
     *       3.2) if the task is done running (remaining burst = 0)
@@ -92,11 +92,11 @@ public:
     *   6)check how much will the process run for?(msln feh process waiting ht interrupt
                                                   el process el running so check blocked)
     *   //aw msln non preemptive f ht run el burst kolo? 3la 7sb b2a bra7tk
-    *   7)return the next excpected time for the context switching(and set the variable)
+    *   7)return the next expected time for the context switching(and set the variable)
                                                 (3aizny a call el function deh tany b3d ad eh?)
     */
-    Scheduler(Process* Running_task, const vector<Process*>& Ready_Q, const vector<Process*>& Blocked_Q, const vector<Process>& Job_Q, const vector<int>& turnaround, const vector<int>& wait_time, int number_of_current_processes, int total_number_of_processes, int excpected_last_return)
-        : Running_task(Running_task), Ready_Q(Ready_Q), Blocked_Q(Blocked_Q), Job_Q(Job_Q), turnaround(turnaround), wait_time(wait_time), number_of_current_processes(number_of_current_processes), total_number_of_processes(total_number_of_processes), excpected_last_return(excpected_last_return) {};
+    Scheduler(Process* Running_task, const vector<Process*>& Ready_Q, const vector<Process*>& Blocked_Q, const vector<Process>& Job_Q, const vector<int>& turnaround, const vector<int>& wait_time, int number_of_current_processes, int total_number_of_processes, int expected_last_return)
+        : Running_task(Running_task), Ready_Q(Ready_Q), Blocked_Q(Blocked_Q), Job_Q(Job_Q), turnaround(turnaround), wait_time(wait_time), number_of_current_processes(number_of_current_processes), total_number_of_processes(total_number_of_processes), expected_last_return(expected_last_return) {};
 
     Scheduler() = default;
 };
