@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="FCFS">
+      <UniqueIdentifier>{9cc2c6cc-2054-48c3-af64-5597370a2144}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Priority_Non_Preemptive">
+      <UniqueIdentifier>{10207007-160f-4041-bca4-2b8cb1039a09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RR">
+      <UniqueIdentifier>{639ed843-e73c-40e8-bec3-7e03a1535a67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Piority_Preemptive">
+      <UniqueIdentifier>{ecafb23e-94c4-4951-8f57-7159be7ff68b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SJF_Preemptive">
+      <UniqueIdentifier>{a5677e6a-8fc1-4af7-896b-507584545544}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SJF_Non_Preemptive">
+      <UniqueIdentifier>{6ccf680e-2060-4f9a-83d0-d637aa41f27f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Definitions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FCFS.h">
+      <Filter>FCFS</Filter>
+    </ClInclude>
+    <ClInclude Include="SJF_Non_Preemptive.h">
+      <Filter>SJF_Non_Preemptive</Filter>
+    </ClInclude>
+    <ClInclude Include="SJF_Preemptive.h">
+      <Filter>SJF_Preemptive</Filter>
+    </ClInclude>
+    <ClInclude Include="Priority_Preemptive.h">
+      <Filter>Piority_Preemptive</Filter>
+    </ClInclude>
+    <ClInclude Include="RR.h">
+      <Filter>RR</Filter>
+    </ClInclude>
+    <ClInclude Include="Priority_Non_Preemptive.h">
+      <Filter>Priority_Non_Preemptive</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="abstract_sch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Priority_Non_Preemptive.cpp">
+      <Filter>Priority_Non_Preemptive</Filter>
+    </ClCompile>
+    <ClCompile Include="FCFS.cpp">
+      <Filter>FCFS</Filter>
+    </ClCompile>
+    <ClCompile Include="RR.cpp">
+      <Filter>RR</Filter>
+    </ClCompile>
+    <ClCompile Include="Priority_Preemptive.cpp">
+      <Filter>Piority_Preemptive</Filter>
+    </ClCompile>
+    <ClCompile Include="SJF_Preemptive.cpp">
+      <Filter>SJF_Preemptive</Filter>
+    </ClCompile>
+    <ClCompile Include="SJF_Non_Preemptive.cpp">
+      <Filter>SJF_Non_Preemptive</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
